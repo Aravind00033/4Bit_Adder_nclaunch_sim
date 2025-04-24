@@ -161,8 +161,6 @@ or
 
 
 ### Fig 7: Nclaunch Window
-![image](https://github.com/user-attachments/assets/2fb0a7e3-d0ed-4864-8f0b-c7e81167c5ab)
-
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
@@ -180,7 +178,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
-![image](https://github.com/user-attachments/assets/6c657d11-1e32-4c2d-bb3e-d16d6a827d5c)
+![image](https://github.com/user-attachments/assets/5d55de71-381c-481d-8b4f-89f909a5f872)
+
 
 
 
@@ -206,7 +205,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 5.	It also establishes net connectivity and prepares all of this for simulation
    
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
-![image](https://github.com/user-attachments/assets/6b74c720-9b42-4782-8d0e-5b410132fdf2)
+![image](https://github.com/user-attachments/assets/e96ef850-e4c9-46c2-9016-41db615d0a16)
+
 
 
 
